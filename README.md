@@ -1,79 +1,63 @@
-<div id="header" align="center">
-  <a href="https://github.com/Amarmohamed0">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://telegram.me/Vijay_7Offl">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
+<!DOCTYPE HTML>
+<html><head> 
 
-</div>
+                <title>𝙈𝙧-𝙏𝘼𝙈𝙄𝙇 𝙆𝙄𝘿..</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
+		<!-- Wrapper -->
+			<div id="wrapper">
+                                
+                <!-- Header -->
+        <header id="header">
+            <div class="logo">
+                <span class="icon fa-gem"></span>
+            </div>
+            <div class="content">
+                <div class="inner">
+                    <h1>𝗠𝗿 𝗧𝗔𝗠𝗜𝗟 𝗞𝗜𝗗
+                    </h1>
+                    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.hit-link.tk&count_bg=%23FF0000&title_bg=%23585858&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+                    <p>
+                        𝗔 𝗡𝗢𝗢𝗕 𝗧𝗥𝗬𝗜𝗡𝗚 𝗧𝗢 𝗠𝗔𝗞𝗘 𝗦𝗢𝗠𝗘𝗧𝗛𝗜𝗡𝗚 𝗦𝗣𝗘𝗖𝗜𝗔𝗟</br>
+                    </p>
+                </div>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index-en.html">𝗪𝗛𝗢 𝗔𝗠 𝗜</a></li>  
+		    <li><a href="index-tg.html">𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠</a></li>
+                    <li><a href="index-cn.html">𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</a></li>
+	            <li><a href="index-gn.html">𝗙 𝗔 𝗤</a></li>
+                    <!--<li><a href="#elements">Elements</a></li>-->
+                </ul>
+            </nav>
+        </header>
 
-
-
-<div id="badges" align="center" width="170px" height="24">
-  <a href="https://github.com/Amarmohamed0">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
-  </a>
-  <a href="https://github.com/MrTamilKiD">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
-  </a>
-</div>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Happy+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+student,+coder+and+a+developer!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;⚡+Fun+fact+I'm+a+noob+coder+%F0%9F%87%AE%F0%9F%87%B3;I+am+from+India+%F0%9F%93%88;Please+Support+and+Follow+%E2%9A%99%EF%B8%8F" alt="Happy" width="650" height="55">
-
-<h3 align="center">🔗Connect with me: </h3>
-<!--[<img align="left" alt="TG" | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][TELEGRAM] -->
-
-
-<br>
-  <div align="center" >
-  <a href="https://github.com/Amarmohamed0">
-    <img  width="120px" src="https://www.gstatic.com/telegram/img/branding/telegramlogo/svg/telegramlogo.svg" alt="Telegram Badge"/>
-  </a>
-  </div>
-<br>
-
-<br>
-
-
-
-<h2 align="center">🧬 Languages and Tools: </h2>
-<p align="center"><code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code> <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code> <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="Visual Studio Code" width="40" height="40"/></a></code> <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/></a></code> <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code> <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Photoshop" width="40" height="40"/></a></code> </p>
+           <!-- Main -->
 
 
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 © 𝟮𝟬𝟮𝟮: <a href="https://github.com/MrTamilKiD">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:𝗠𝗿 𝗧𝗔𝗠𝗜𝗟 𝗞𝗜𝗗</a></p>
+					</footer>
 
+			</div>
 
+		<!-- BG -->
+			<div id="bg"></div>
 
- 
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-
-
-
-<br><br>
- 
-<h2 align="center"> 📊 ꜱᴛᴀᴛꜱ: </h2>
-
-
-
-<div id="badges" align="center">
-  <a href="https://github.com/Amarmohamed0">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrTamilKiD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/MrTamilKiD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTamilKiD&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
-  </a>
-<br>
-  <br>
-  <a href="https://github.com/MrTamilKiD">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MrTamilKiD&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
-  </a>
-</div>
-
-
+	</body>
+</html> 
