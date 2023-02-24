@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <a href="https://github.com/MrTamilKiD">
+  <a href="https://github.com/Amarmohamed0">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://telegram.me/Mrtamil_kid">
+  <a href="https://telegram.me/Vijay_7Offl">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 
@@ -15,7 +15,7 @@
 
 
 <div id="badges" align="center" width="170px" height="24">
-  <a href="https://github.com/MrTamilKiD">
+  <a href="https://github.com/Amarmohamed0">
     <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
   </a>
   <a href="https://github.com/MrTamilKiD">
@@ -32,7 +32,7 @@
 
 <br>
   <div align="center" >
-  <a href="https://github.com/MrTamilKiD">
+  <a href="https://github.com/Amarmohamed0">
     <img  width="120px" src="https://www.gstatic.com/telegram/img/branding/telegramlogo/svg/telegramlogo.svg" alt="Telegram Badge"/>
   </a>
   </div>
@@ -61,7 +61,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://github.com/MrTamilKiD">
+  <a href="https://github.com/Amarmohamed0">
     <img src="https://github-readme-stats.vercel.app/api?username=MrTamilKiD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
   </a>
   <br>
